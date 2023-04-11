@@ -1,0 +1,27 @@
+body {
+  background: rgb(190, 187, 187);
+}
+
+form {
+  max-width: 200px;
+  margin: 40px auto;
+  background: rgb(206, 206, 206);
+  padding: 10px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+  border: none;
+}
+
+.success {
+  border: 1px solid green;
+  outline: none;
+}
+
+.fail {
+  border: 1px solid crimson;
+  outline: none;
+}
